@@ -4,7 +4,7 @@
 This is an event management system that allows users to create, view, register for, and cancel events. Admins can also manage user profiles and change the booking capacity of events.
 </p>
 
-##Key features
+## Key features
 
 Event creation, updating, and deletion.
 Event viewing, registration, cancellation, and profile editing (for users)
