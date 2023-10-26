@@ -13,9 +13,9 @@ Changing the booking capacity of events.
 
 ## Requirements
 
-IDE: NetBeans (prefrred), VSCode, Eclipse.
-Java: jdk-1.8
-Xampp: MySQL server, Tomcat Server, Appache Server
-MySQL: mysql connector [download](https://jar-download.com/artifacts/mysql/mysql-connector-java/5.1.32/source-code)
+IDE: NetBeans (prefrred), VSCode, Eclipse.  
+Java: jdk-1.8  
+Xampp: MySQL server, Tomcat Server, Appache Server  
+MySQL: mysql connector [download](https://jar-download.com/artifacts/mysql/mysql-connector-java/5.1.32/source-code)  
 
 
