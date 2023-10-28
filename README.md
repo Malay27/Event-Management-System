@@ -6,10 +6,15 @@ This is an event management system that allows users to create, view, register f
 
 ## Key features
 
-Event creation, updating, and deletion.  
-Event viewing, registration, cancellation, and profile editing (for users).  
-Booking multiple tickets for an event in a single transaction.  
-Changing the booking capacity of events.  
+<p>
+  <ul>
+    <li>Event creation, updating, and deletion.</li>
+    <li>Event viewing, registration, cancellation, and profile editing (for users).</li>
+    <li>Booking multiple tickets for an event in a single transaction.</li>
+    <li>Changing the booking capacity of events.</li>
+  </ul>
+</p>
+
 
 ## Requirements
 
